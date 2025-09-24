@@ -34,8 +34,6 @@ VS Code • Jupyter Notebook • Linux
 | Project | Description | Technologies |
 |---|---|---|
 | AutoChroma: Neural Network Colorization | AI-based project that colorizes grayscale images | Python, OpenCV, Flask, Deep Learning |
-| DSA With Java | Repository of solved Data Structures & Algorithms | Java |
-| GFG Problem Solving | Collection of algorithmic problem solutions | Java, Python |
 
 ---
 
