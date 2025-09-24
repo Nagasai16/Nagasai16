@@ -7,7 +7,7 @@ I’m a **CSE (Data Science)** student passionate about **Full Stack Development
 - 🌱 Currently learning:  Java, DSA, Aptitude  
 - 👯 Open to collaborate on: AI/ML projects, Web Apps, and Startup Ideas  
 - 💬 Ask me about: Python, Java, DSA, DBMS, OS, or project building  
-- 📫 Reach me at: **jnani270@gmail.com**  
+- 📫 Reach me at: **jittanagasai16@gmail.com**  
 - 😄 Pronouns: **He / Him**  
 - ⚡ Fun fact: I often learn new concepts faster by teaching them to others 👨‍🏫  
 
