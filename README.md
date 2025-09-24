@@ -16,10 +16,7 @@ I’m a **CSE (Data Science)** student passionate about **Full Stack Development
 ## ⚙️ Skills & Tools  
 
 **Languages & Frameworks**  
-Python • Java • C • SQL • JavaScript  
-
-**Machine Learning / Data Science**  
-scikit-learn • Pandas • NumPy • Matplotlib • TensorFlow / PyTorch (basics)  
+Python • Java • C • SQL • JavaScript   
 
 **Web & Dev Tools**  
 Flask • React • HTML • CSS • Git / GitHub  
