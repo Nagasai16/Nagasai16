@@ -53,7 +53,7 @@ VS Code • Jupyter Notebook • Linux
 ---
 
 ## 📫 Connect With Me  
-[LinkedIn](#)• [Email](mailto:jnani270@gmail.com)  
+[LinkedIn](#)• [Email](mailto:jittanagasai16@gmail.com)  
 
 ---
 
