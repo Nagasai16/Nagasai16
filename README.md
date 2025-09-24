@@ -4,7 +4,7 @@
 I’m a **CSE (Data Science)** student passionate about **Full Stack Development, Machine Learning, and Data Science**. I enjoy building intelligent systems and innovative web applications that solve real-world problems. Always eager to **learn, grow, and collaborate** in the tech community.  
 
 - ✅ Built: *AutoChroma – Neural Network Colorization* (AI-based image colorization project)  
-- 🌱 Currently learning: Advanced Python, Java, DSA, Aptitude  
+- 🌱 Currently learning:  Java, DSA, Aptitude  
 - 👯 Open to collaborate on: AI/ML projects, Web Apps, and Startup Ideas  
 - 💬 Ask me about: Python, Java, DSA, DBMS, OS, or project building  
 - 📫 Reach me at: **jnani270@gmail.com**  
