@@ -54,7 +54,7 @@ VS Code • Jupyter Notebook • Linux
 ---
 
 ## 📫 Connect With Me  
-[LinkedIn](#)• [Email](mailto:jittanagasai16@gmail.com)  
+[LinkedIn](www.linkedin.com/in/jitta-nagasai-reddy-6064802b8)• [Email](mailto:jittanagasai16@gmail.com)  
 
 ---
 
