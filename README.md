@@ -39,7 +39,7 @@ VS Code • Jupyter Notebook • Linux
 - 📜 **Publication in IRJMETS** (International Research Journal of Modernization in Engineering, Technology and Science)  
   *Paper ID: IRJMETS70600178589*  
 - 🥇 **Hackathon Participant** – Skilltyro Hackathon  
-- 🎓 Consistent academic performance with **CGPA 8.6 (2-1 Semester)** at ACE Engineering College  
+- 🎓 Consistent academic performance with **CGPA 8.70 (2-2 Semester)** at ACE Engineering College  
 
 ---
 
