@@ -40,6 +40,7 @@ VS Code • Jupyter Notebook • Linux
   *Paper ID: IRJMETS70600178589*  
 - 🥇 **Hackathon Participant** – Skilltyro Hackathon
 - 🥇 **Certificate of Merit - Naukari Campus Young Turks 2025** (Crednetial ID:68d9bd0dabe8a1724df78eaa)
+- 🥇 **Certificate of C Program Essential** - Cisco Network Academy 
 - 🎓 Consistent academic performance with **CGPA 8.70 (2-2 Semester)** at ACE Engineering College
 
 ---
