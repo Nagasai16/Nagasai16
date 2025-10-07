@@ -19,7 +19,7 @@ I’m a **CSE (Data Science)** student passionate about **Full Stack Development
 Python • Java • C • SQL • JavaScript   
 
 **Web & Dev Tools**  
-Flask • React • HTML • CSS • Git / GitHub  
+Flask • React • HTML • CSS • GitHub  
 
 **Other Tools**  
 VS Code • Jupyter Notebook • Linux  
