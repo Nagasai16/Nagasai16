@@ -47,8 +47,7 @@ VS Code • Jupyter Notebook • Linux
 ---
 
 ## 💡 Startup Ideas & Interests  
-
-- **MAX – Multi-Smart Device**: An innovative IoT project for smart home/office  
+ 
 - **ACE College App**: App for college-related services and automation  
 - **Treta**: A platform for social interactions, chatting, and dating  
 - Interested in AI-powered **healthcare, education, and productivity tools**  
