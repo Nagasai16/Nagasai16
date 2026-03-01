@@ -22,7 +22,7 @@ Python • Java • C • SQL • JavaScript
 Flask • React • HTML • CSS • GitHub  
 
 **Other Tools**  
-VS Code • Jupyter Notebook • Linux  
+VS Code • Jupyter Notebook • Linux 
 
 ---
 
