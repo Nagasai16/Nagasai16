@@ -31,6 +31,7 @@ VS Code • Jupyter Notebook • Linux
 | Project | Description | Technologies |
 |---|---|---|
 | AutoChroma Neural Network Colorization | AI-based project that colorizes grayscale images | Python, OpenCV, Flask, Deep Learning |
+|AI-Based Skill Gap Analyzer| Web app to analyze user skills, identify gaps, and provide career guidance. | Python, Flask, HTML, CSS, JS, SQLite|
 
 ---
 
