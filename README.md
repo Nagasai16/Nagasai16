@@ -55,7 +55,6 @@ VS Code • Jupyter Notebook • Linux
 ---
 
 ## 📫 Connect With Me  
-## 📫 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jitta-nagasai-reddy-6064802b8" target="_blank">
