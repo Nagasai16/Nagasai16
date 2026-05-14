@@ -66,4 +66,16 @@ VS Code • Jupyter Notebook • Linux
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nagasai16&theme=tokyonight)
+
+---
+
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagasai16&theme=tokyo-night)
+
+---
+
 ⭐ Thanks for visiting my profile — let’s collaborate and build something amazing 🚀
