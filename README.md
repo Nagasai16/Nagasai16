@@ -50,7 +50,6 @@ VS Code • Jupyter Notebook • Linux
 ## 💡 Startup Ideas & Interests  
  
 - **ACE College App**: App for college-related services and automation  
-- **Treta**: A platform for social interactions, chatting, and dating  
 - Interested in AI-powered **healthcare, education, and productivity tools**  
 
 ---
