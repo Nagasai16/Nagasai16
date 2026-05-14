@@ -55,7 +55,21 @@ VS Code • Jupyter Notebook • Linux
 ---
 
 ## 📫 Connect With Me  
-[LinkedIn](www.linkedin.com/in/jitta-nagasai-reddy-6064802b8)• [Email](mailto:jittanagasai16@gmail.com)  
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jitta-nagasai-reddy-6064802b8" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:jittanagasai16@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/Nagasai16" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
 
 ---
 
