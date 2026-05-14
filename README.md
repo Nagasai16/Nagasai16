@@ -60,10 +60,10 @@ VS Code • Jupyter Notebook • Linux
 ---
 
 ## 📊 GitHub Stats  
+![Nani's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nagasai16&show_icons=true&theme=tokyonight)
 
-![Nani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagasai16&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nagasai16&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagasai16&layout=compact&theme=tokyonight&cache_seconds=1800)
 ---
 
 ⭐ Thanks for visiting my profile — let’s collaborate and build something amazing 🚀
