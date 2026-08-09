@@ -117,4 +117,4 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 
 ---
 
-⭐ Thanks for visiting my profile — let’s collaborate and build something amazing 🚀
+⭐ **Thanks for visiting my profile — let’s collaborate and build something amazing**🚀
