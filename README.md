@@ -12,7 +12,7 @@ CSE (Data Science) Student | Software Developer | AI & Data Science Enthusiast
 
 I’m a **CSE (Data Science)** student passionate about **Software Development, AI/ML, and Data Science**. I enjoy building practical applications and intelligent systems that solve real-world problems.
 
-- 🔭 Built: **AutoChroma – Neural Network Colorization**
+- 🔭 Built: **AutoChroma Neural Network Colorization**
 - 🌱 Currently learning: **Java, DSA, and Aptitude**
 - 👯 Open to collaborate on: **AI/ML projects, Web Applications, and Startup Ideas**
 - 💬 Ask me about: **Python, Java, DSA, DBMS, OS, and Project Development**
