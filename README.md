@@ -96,9 +96,10 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagasai16&custom_title=My%20GitHub%20Statistics&show_icons=true&theme=radical&include_all_commits=true&hide_border=false&rank_icon=default&ring_color=DB2777" />
-</p>
+![Nani's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nagasai16&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nagasai16&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🔥 GitHub Streak
