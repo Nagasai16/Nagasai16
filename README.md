@@ -59,14 +59,15 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 
 ## 🏆 Certifications & Achievements  
 
-- 📜 **Publication in IRJMETS** (International Research Journal of Modernization in Engineering, Technology and Science)  
-  *Paper ID: IRJMETS70600178589*  
-- 🥇 **Hackathon Participant** – Skilltyro Hackathon
-- 🥇 **Certificate of Merit - Naukari Campus Young Turks 2025** (Crednetial ID:68d9bd0dabe8a1724df78eaa)
-- 🥇 **Certificate of C Program Essential** - Cisco Network Academy
-- 🥇 **Python Full Stack** - EduSkills Academy
-- 🎓 Consistent academic performance with **CGPA 8.61 (3-2 Semester)** at ACE Engineering College
+## 🏆 Certifications & Achievements
 
+- 🥇 **Finalist – Skilltyro Hackathon**
+- 📄 **Research Publication – IRJMETS**
+  - Paper ID: IRJMETS70600178589
+- 🏅 **Naukri Campus Young Turks '25 – Certificate of Merit**
+- 🐍 **Python Essentials – Cisco Networking Academy**
+- 💻 **Python Full Stack Virtual Internship – EduSkills**
+- 🎓 **CGPA: 8.61(3-2) – ACE Engineering College**
 ---
 
 ## 💡 Startup Ideas & Interests  
