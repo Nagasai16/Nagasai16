@@ -9,15 +9,16 @@ CSE (Data Science) Student | Software Developer | AI & Data Science Enthusiast
 </p>
 
 ## 🎯 About Me  
-I’m a **CSE (Data Science)** student passionate about **Full Stack Development, Machine Learning, and Data Science**. I enjoy building intelligent systems and innovative web applications that solve real-world problems. Always eager to **learn, grow, and collaborate** in the tech community.  
 
-- ✅ Built: *AutoChroma – Neural Network Colorization* (AI-based image colorization project)  
-- 🌱 Currently learning:  Java, DSA, Aptitude  
-- 👯 Open to collaborate on: AI/ML projects, Web Apps, and Startup Ideas  
-- 💬 Ask me about: Python, Java, DSA, DBMS, OS, or project building  
-- 📫 Reach me at: **jittanagasai16@gmail.com**  
-- 😄 Pronouns: **He / Him**  
-- ⚡ Fun fact: I often learn new concepts faster by teaching them to others 👨‍🏫  
+I’m a **CSE (Data Science)** student passionate about **Software Development, AI/ML, and Data Science**. I enjoy building practical applications and intelligent systems that solve real-world problems.
+
+- 🔭 Built: **AutoChroma – Neural Network Colorization**
+- 🌱 Currently learning: **Java, DSA, and Aptitude**
+- 👯 Open to collaborate on: **AI/ML projects, Web Applications, and Startup Ideas**
+- 💬 Ask me about: **Python, Java, DSA, DBMS, OS, and Project Development**
+- 📫 Reach me at: **jittanagasai16@gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I learn concepts faster when I teach them to others.
 
 ---
 
