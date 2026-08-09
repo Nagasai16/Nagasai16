@@ -94,12 +94,9 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagasai16&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagasai16&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagasai16&show_icons=true&theme=tokyonight)
 ---
 
 ## 🔥 GitHub Streak
