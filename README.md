@@ -1,5 +1,4 @@
-# Hi there 👋, I’m J. Nagasai Reddy  
-<h1 align="center">Hi 👋, I'm J. Nagasai Reddy</h1>
+ <h1 align="center">Hi 👋, I'm J. Nagasai Reddy</h1>
 
 <h3 align="center">
 CSE (Data Science) Student | Software Developer | AI & Data Science Enthusiast
