@@ -56,9 +56,6 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 | [AI-Based Skill Gap Analyzer](https://github.com/Nagasai16/AI-BASED-SKILL-GAP-ANALYZER) | Web application that analyzes user skills, identifies skill gaps, and provides career guidance. | Python, Flask, HTML, CSS, JavaScript, SQLite |
 
 ---
-
-## 🏆 Certifications & Achievements  
-
 ## 🏆 Certifications & Achievements
 
 - 🥇 **Finalist – Skilltyro Hackathon**
@@ -70,11 +67,13 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 - 🎓 **CGPA: 8.61(3-2) – ACE Engineering College**
 ---
 
-## 💡 Startup Ideas & Interests  
+## 💡 Interests & Ideas
  
-- **ACE College App**: App for college-related services and automation  
-- Interested in AI-powered **healthcare, education, and productivity tools**  
-
+- 🚀 Building automation solutions for college ecosystems
+- 🤖 AI-powered education and productivity tools
+- 🌐 Full Stack Web Applications
+- 🧠 Machine Learning and Data Science
+- 💡 Exploring startup ideas that solve real-world problems
 ---
 
 ## 📫 Connect With Me  
@@ -96,21 +95,25 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 ---
 
 ## 📊 GitHub Stats  
-![Nani's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nagasai16&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nagasai16&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nagasai16&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagasai16&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nagasai16&theme=tokyonight)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nagasai16&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagasai16&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagasai16&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
