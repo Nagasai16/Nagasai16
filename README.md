@@ -1,4 +1,13 @@
 # Hi there 👋, I’m J. Nagasai Reddy  
+<h1 align="center">Hi 👋, I'm J. Nagasai Reddy</h1>
+
+<h3 align="center">
+CSE (Data Science) Student | Software Developer | AI & Data Science Enthusiast
+</h3>
+
+<p align="center">
+  Building practical solutions with Python, Java, AI, Data Science, and Web Technologies.
+</p>
 
 ## 🎯 About Me  
 I’m a **CSE (Data Science)** student passionate about **Full Stack Development, Machine Learning, and Data Science**. I enjoy building intelligent systems and innovative web applications that solve real-world problems. Always eager to **learn, grow, and collaborate** in the tech community.  
