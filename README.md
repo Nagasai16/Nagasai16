@@ -5,7 +5,7 @@ CSE (Data Science) Student | Software Developer | AI & Data Science Enthusiast
 </h3>
 
 <p align="center">
-  Building practical solutions with Python, Java, AI, Data Science, and Web Technologies.
+  Building practical solutions with Python, Java, AI and Web Technologies.
 </p>
 
 ## 🎯 About Me  
