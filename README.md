@@ -42,9 +42,9 @@ I’m a **CSE (Data Science)** student passionate about **Full Stack Development
 ## 🚀 Projects  
 
 | Project | Description | Technologies |
-|---|---|---|
-| AutoChroma Neural Network Colorization | AI-based project that colorizes grayscale images | Python, OpenCV, Flask, Deep Learning |
-|AI-Based Skill Gap Analyzer| Web app to analyze user skills, identify gaps, and provide career guidance. | Python, Flask, HTML, CSS, JS, SQLite|
+| :--- | :--- | :--- |
+| [AutoChroma Neural Network Colorization](https://github.com/Nagasai16/Autochroma-Neural-Network-Colorization-using-Deep-learning) | AI-based project that colorizes grayscale images using deep learning. | Python, OpenCV, Flask, Deep Learning |
+| [AI-Based Skill Gap Analyzer](https://github.com/Nagasai16/AI-BASED-SKILL-GAP-ANALYZER) | Web application that analyzes user skills, identifies skill gaps, and provides career guidance. | Python, Flask, HTML, CSS, JavaScript, SQLite |
 
 ---
 
@@ -70,17 +70,17 @@ I’m a **CSE (Data Science)** student passionate about **Full Stack Development
 ## 📫 Connect With Me  
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jitta-nagasai-reddy-6064802b8" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/jitta-nagasai-reddy-6064802b8" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
 
-<a href="mailto:jittanagasai16@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+  <a href="mailto:jittanagasai16@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 
-<a href="https://github.com/Nagasai16" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+  <a href="https://github.com/Nagasai16" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
 </p>
 
 ---
