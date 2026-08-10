@@ -93,12 +93,11 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 </p>
 
 ---
-
 ## 📊 GitHub Statistics
 
-![Nagasai16's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nagasai16&show_icons=true&theme=radial)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nagasai16&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagasai16&layout=compact&theme=radial)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nagasai16&layout=compact&theme=tokyonight)
 
 ---
 
