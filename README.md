@@ -93,7 +93,7 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 </p>
 
 ---
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nagasai16&show_icons=true&theme=tokyonight)
 
