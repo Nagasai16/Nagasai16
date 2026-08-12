@@ -64,7 +64,7 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 - 🏅 **Naukri Campus Young Turks '25 – Certificate of Merit**
 - 🐍 **Python Essentials – Cisco Networking Academy**
 - 💻 **Python Full Stack Virtual Internship – EduSkills**
-- 🎓 **CGPA: 8.61(3-2) – ACE Engineering College**
+- 🎓 **CGPA: 8.61 – ACE Engineering College**
 ---
 
 ## 💡 Interests & Ideas
