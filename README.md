@@ -100,8 +100,7 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 ---
 
 ## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nagasai16&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Nagasai16&theme=dark)
 
 ---
 
