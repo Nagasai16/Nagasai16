@@ -15,7 +15,7 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
 - 🔭 Built: **AutoChroma Neural Network Colorization**
 - 🌱 Currently learning: **Java, DSA, and Aptitude**
 - 👯 Open to collaborate on: **AI/ML projects, Web Applications, and Startup Ideas**
-- 💬 Ask me about: **Python, Java, DSA, DBMS, OS, and Project Development**
+- 💬 Ask me about: **Python, Java, DSA, DBMS, OS, CN, and Project Development**
 - 📫 Reach me at: **jittanagasai16@gmail.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I learn concepts faster when I teach them to others.
