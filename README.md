@@ -86,10 +86,6 @@ I’m a **CSE (Data Science)** student passionate about **Software Development, 
   <a href="mailto:jittanagasai16@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
-
-  <a href="https://github.com/Nagasai16" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
 </p>
 
 ---
